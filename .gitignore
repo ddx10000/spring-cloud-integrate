@@ -1,0 +1,10 @@
+.idea/
+service-zuul/target/
+config-client/target/
+*.iml
+service-zuul/mvnw
+config-server/target/
+config-client/.mvn/
+config-server/.mvn/
+eureka-client/.mvn/
+service-zuul/.mvn/
